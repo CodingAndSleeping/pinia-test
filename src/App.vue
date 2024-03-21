@@ -19,6 +19,8 @@ const onLogin = async () => {
 const onLogout = () => {
   userStore.logout();
 };
+
+console.log('test')
 </script>
 
 <template>
